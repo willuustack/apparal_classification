@@ -2,7 +2,10 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers, models
 import numpy as np
+import matplotlib
+matplotlib.use('TkAgg')  # Set the TkAgg backend for better compatibility
 import matplotlib.pyplot as plt
+
 
 
 class DataHandler:
