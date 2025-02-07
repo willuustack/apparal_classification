@@ -1,2 +1,1 @@
-pip install mathplotlib
-pip install tensorflow
+pip install matplotlib tensorflow
